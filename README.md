@@ -1,4 +1,4 @@
-2)import numpy as np
+#832.код версия v12,1)import numpy as np
 import matplotlib.pyplot as plt
 import hashlib
 
